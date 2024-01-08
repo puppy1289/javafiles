@@ -4,7 +4,7 @@ public static void main(String args[])
 {
 printStudentinfo();
 }
-private static void printstudentinfo()
+private static void printStudentinfo()
 {
 String studentname="abhi";
 String collegename="aits";
