@@ -2,7 +2,7 @@ public class StudentInformation
 {
 public static void main(String args[])
 {
-printStudentinfo
+printStudentinfo();
 }
 private static void printstudentinfo()
 {
